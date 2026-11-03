@@ -1,0 +1,24 @@
+!SESSION 2026-11-03 20:54:33.691 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  C:\Users\user\Desktop\mid\midwxam\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\user\Desktop\mid\midwxam\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-11-03 20:54:40.158
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\mid\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-11-03 20:54:42.770
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-11-03 20:54:46.569
+!MESSAGE Indexed 'midwxam' (19 sources, 110 headers) in 2.24 sec: 10,006 declarations; 37,313 references; 7 unresolved inclusions; 984 syntax errors; 1,312 unresolved names (2.7%)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-03 20:54:47.710
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM5
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-03 20:54:47.711
+!MESSAGE port: COM5
